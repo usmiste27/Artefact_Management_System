@@ -1,0 +1,11 @@
+[
+    {
+        "id": "ART002",
+        "name": "test0002",
+        "category": "category 05",
+        "location": "My location 4",
+        "condition": "Under Repair",
+        "description": "this is description",
+        "acquisition_date": "06-12-2026"
+    }
+]
